@@ -27,10 +27,14 @@ Auto-closes tabs which you haven't used in awhile.
 ## Todo:
 
 * Pause the auto-close behavior if the browser has been idle
+* Add a right click action on corral to definetely close tabs
+* Define tab groups
+
 
 ## Creds:
 
 Original extension and idea by [jacktasia](https://github.com/jacktasia/tabwrangler) in 2010. 
-Rewriten by [JacobSingh](https://github.com/jacobSingh) in 2012.
+Rewritten by [JacobSingh](https://github.com/jacobSingh) in 2012.
+Additional features working by [lucabotti](https://github.com/lucabotti) in 2014
 
 
